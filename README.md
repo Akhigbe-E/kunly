@@ -1,2 +1,2 @@
 # Kunly
-A slack bot built with Go lang for trouble making purposes 😂
+A slack bot built with Go for trouble making purposes 😂
